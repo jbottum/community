@@ -246,6 +246,7 @@ The Manifests WG leads will be evaluating the final structure of manifests befor
 - Ensure the manifests provide a deployable Kubeflow installation
 - Sync with other WGs on pending issues
 - After finishing testing, create a new **vX.Y-rc.2** tag on the **vX.Y-branch** release branch to ensure the latest bug fixes are included.
+- Note - the Manifest and Notebooks Working Groups use this the same versioning as the Kubeflow release.
 
 **Success Criteria:** Manifests complete and fixes from working groups applied.
 
